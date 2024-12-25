@@ -122,7 +122,7 @@ such as `node.name` could be specified on the command line.
 
 include::connect-clients.asciidoc[]
 
-[[targz-layout]]
+[[targz-layout]] 
 ==== Directory layout of archives
 
 The archive distributions are entirely self-contained. All files and
